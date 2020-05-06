@@ -3857,7 +3857,7 @@ input, select, textarea {
 					}
 
 		/* Nav */
-
+/*
 			#page-wrapper {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
@@ -3869,9 +3869,9 @@ input, select, textarea {
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
 				padding-top: 44px !important;
-			}
+			}*/
 
-			#titleBar {
+			/*#titleBar {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3889,7 +3889,7 @@ input, select, textarea {
 				z-index: 10001;
 				background: #272833;
 				box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
-			}
+			}*/
 
 				#titleBar .title {
 					color: #ffffff;
@@ -3944,7 +3944,7 @@ input, select, textarea {
 						width: 54px;
 					}
 
-			#navPanel {
+			/*#navPanel {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -4037,7 +4037,7 @@ input, select, textarea {
 				-ms-transform: translateX(0);
 				transform: translateX(0);
 			}
-
+*/
 		/* Footer */
 
 			#footer {
